@@ -18,6 +18,7 @@ email: thore.egeland@gmail.com
 description: >
   Familias is a program for probability calculations when inferring paternity
   and identification based on DNA data.
+baseurl: "/rfamilias-site-demo"
 
 # Build settings
 markdown: kramdown

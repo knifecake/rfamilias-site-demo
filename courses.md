@@ -94,25 +94,25 @@ discount with the code ATR30.
   [Elsevier,]: http://store.elsevier.com/product.jsp?isbn=9780128024027
   [http://familias.no]: http://familias.no/
   [blog.]: http://parentela.familias.name/#category5
-  [Taller de Parentesco e Identificación (Familial Testing and Identification).]: {{ site.url }}/ICRC2019/Programa.pdf
+  [Taller de Parentesco e Identificación (Familial Testing and Identification).]: {{ site.url }}{{ site.baseurl }}/ICRC2019/Programa.pdf
   [How Genealogy lost its innocence.]: https://sites.google.com/site/nsfavdoslo/moeter/statisticseveningtemakveldnovember15th
-  [Disaster Victim Identification -- applications and statistics]: {{ site.url }}/dvi.pdf
-  [FamLink and FamLinkX]: {{ site.url }}/CPH2018/CPH-3.pdf
+  [Disaster Victim Identification -- applications and statistics]: {{ site.url }}{{ site.baseurl }}/dvi.pdf
+  [FamLink and FamLinkX]: {{ site.url }}{{ site.baseurl }}/CPH2018/CPH-3.pdf
   [ISFG]: https://www.isfg.org/
-  [\"Paternity and kinship testing including X-chromosomal markers\".]: {{ site.url }}/isfg-kinship-2018/
+  [\"Paternity and kinship testing including X-chromosomal markers\".]: {{ site.url }}{{ site.baseurl }}/isfg-kinship-2018/
   [NORBIS]: https://norbis.w.uib.no/activities/courses/NORBIS
-  [Statistical methods in relatedness and pedigree analysis.]: {{ site.url }}/norbisRelatedness
-  [Statistical Methods and Software for Forensic Genetics.]: {{ site.url }}/mty
+  [Statistical methods in relatedness and pedigree analysis.]: {{ site.url }}{{ site.baseurl }}/norbisRelatedness
+  [Statistical Methods and Software for Forensic Genetics.]: {{ site.url }}{{ site.baseurl }}/mty
   [in Spanish.]: http://tegf.eventos.cimat.mx/
   [Relationship Inference with Familias and R.]: https://vimeo.com/235876284/49b2826ee0
   [ISHI workshop]: https://www.ishinews.com/presentation/hita-workshop/
   [HITA.]: http://www.hita-dna.org/
   [Kinship analysis.]: http://www.few.vu.nl/~ksn560/Kinship%20workshop%20ISFG2017.html
   [ISFG 2017]: http://isfg2017.org
-  [Familial Testing and Identification.]: {{ site.url }}/cyprus2017
-  [X-chromosomal markers and FamLinkX]: {{ site.url }}/sagf2016
+  [Familial Testing and Identification.]: {{ site.url }}{{ site.baseurl }}/cyprus2017
+  [X-chromosomal markers and FamLinkX]: {{ site.url }}{{ site.baseurl }}/sagf2016
   [SAGF.]: http://www.sagf.org.ar/
-  [Program: Statistical methods in genetics using R]: {{ site.url }}/RioR
+  [Program: Statistical methods in genetics using R]: {{ site.url }}{{ site.baseurl }}/RioR
   [EUROFORGEN-NoE]: http://www.euroforgen.eu
   [Relationship Inference with Familias.]: EuroforgenWebinarRelationshipInferenceAndFamilias.pdf
   [video version]: https://screencast.uninett.no/relay/ansatt/thegnmbu.no/2016/09.11/1717467/Relayionship_Inference_with_Familias_-_20161109_133534_39.html
@@ -120,11 +120,11 @@ discount with the code ATR30.
   [Workshop on evaluation of DNA evidence,]: FinalprogramBalkanmeeting.pdf
   [Advanced Relationship Inference]: http://ishinews.com/presentation/advanced-relationship-inference/
   [Euroforgen workshop program: Familial Testing and Identification.]: /Rome2016/ProgramSep22-23.pdf
-  [program and material]: {{ site.url }}/ghep2016/
+  [program and material]: {{ site.url }}{{ site.baseurl }}/ghep2016/
   [Familial testing, X-files, FamLinkX.]: http://www.gep-isfg.org/en/
   [Statistical Methods in Forensic Genetics.]: /Bologna2016.pdf
-  [Relationship inference with Familias and FamLink.]: {{ site.url }}/montreal2016
-  [Familial testing: Autosomal and X chromosomal markers.]: {{ site.url }}/rio2016
-  [1]: {{ site.url }}/athens2016
-  [Activity before 2016]: {{ site.url }}/familiasCourses.pdf
+  [Relationship inference with Familias and FamLink.]: {{ site.url }}{{ site.baseurl }}/montreal2016
+  [Familial testing: Autosomal and X chromosomal markers.]: {{ site.url }}{{ site.baseurl }}/rio2016
+  [1]: {{ site.url }}{{ site.baseurl }}/athens2016
+  [Activity before 2016]: {{ site.url }}{{ site.baseurl }}/familiasCourses.pdf
 

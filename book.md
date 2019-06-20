@@ -30,17 +30,17 @@ related to the book:\
   [tutorial]: http://famlink.se/f_gettingstarted.html
   [FamLinkX]: http://famlink.se/fx_index.html
   [1]: http://famlink.se/fx_gettingstarted.html
-  [R Familias]: {{ site.url }}/openfamilias.html
+  [R Familias]: {{ site.url }}{{ site.baseurl }}/openfamilias.html
   [manual]: http://cran.r-project.org/web/packages/Familias/Familias.pdf
-  [BookEKM (gz-format,]: {{ site.url }}/BookEKM_1.0.tar.gz
-  [zip)]: {{ site.url }}/BookEKM_1.0.zip
+  [BookEKM (gz-format,]: {{ site.url }}{{ site.baseurl }}/BookEKM_1.0.tar.gz
+  [zip)]: {{ site.url }}{{ site.baseurl }}/BookEKM_1.0.zip
   [cran]: http://cran.r-project.org/web/packages/available_packages_by_name.html
-  [Solutions]: {{ site.url }}/SolutionsAll.pdf
-  [selected exercises]: {{ site.url }}/SelectedExercisesBookEKM.pdf
-  [video]: {{ site.url }}/VideosBook.pdf
-  [Spanish]: {{ site.url }}/FamiliasvideosEspanol.pdf
-  [Ch2Input.zip]: {{ site.url }}/Ch2Input.zip
-  [Ch3Input.zip]: {{ site.url }}/Ch3Input.zip
-  [Ch4FamLinkInput.zip]: {{ site.url }}/Ch4FamLinkInput.zip
-  [Ch4FamLinkXInput.zip]: {{ site.url }}/Ch4FamLinkXInput.zip
-  [courses and workshops]: {{ site.url }}/Courses.html
+  [Solutions]: {{ site.url }}{{ site.baseurl }}/SolutionsAll.pdf
+  [selected exercises]: {{ site.url }}{{ site.baseurl }}/SelectedExercisesBookEKM.pdf
+  [video]: {{ site.url }}{{ site.baseurl }}/VideosBook.pdf
+  [Spanish]: {{ site.url }}{{ site.baseurl }}/FamiliasvideosEspanol.pdf
+  [Ch2Input.zip]: {{ site.url }}{{ site.baseurl }}/Ch2Input.zip
+  [Ch3Input.zip]: {{ site.url }}{{ site.baseurl }}/Ch3Input.zip
+  [Ch4FamLinkInput.zip]: {{ site.url }}{{ site.baseurl }}/Ch4FamLinkInput.zip
+  [Ch4FamLinkXInput.zip]: {{ site.url }}{{ site.baseurl }}/Ch4FamLinkXInput.zip
+  [courses and workshops]: {{ site.url }}{{ site.baseurl }}/Courses.html

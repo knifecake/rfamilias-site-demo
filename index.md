@@ -29,8 +29,8 @@ in Windows Familias and is also essential for Daniel Kling\'s software
 multiple Familias projects at once.
 
   [http://familias.no]: http://familias.no/
-  [English]: {{ site.url }}/tutorial/familias_tutorial_english.pdf
-  [Spanish]: {{ site.url }}/tutorial/familias_tutorial_spanish.pdf
+  [English]: {{ site.url }}{{ site.baseurl }}/tutorial/familias_tutorial_english.pdf
+  [Spanish]: {{ site.url }}{{ site.baseurl }}/tutorial/familias_tutorial_spanish.pdf
   [parentela]: http://parentela.familias.name/#category5
   [R Familias]: http://www.familias.name/openfamilias.html
   [Courses]: http://www.familias.name/Courses.html

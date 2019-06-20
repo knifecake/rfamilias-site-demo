@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>{{ site.title }}</title>
 
-    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}">
 
   </head>
 
@@ -13,10 +13,10 @@
       <h1>{{ site.title }}</h1>
       <nav>
         <ul>
-          <li><a class="{% if 'index.md' == page.path %}active{% endif %}" href="{{ site.url }}/">Home</a></li>
-          <li><a class="{% if 'book.md' == page.path %}active{% endif %}" href="{{ site.url }}/book">Book</a></li>
-          <li><a class="{% if 'openfamilias.md' == page.path %}active{% endif %}" href="{{ site.url }}/openfamilias">R Familias</a></li>
-          <li><a class="{% if 'courses.md' == page.path %}active{% endif %}" href="{{ site.url }}/courses">Courses</a></li>
+          <li><a class="{% if 'index.md' == page.path %}active{% endif %}" href="{{ '/' | relative_url }}">Home</a></li>
+          <li><a class="{% if 'book.md' == page.path %}active{% endif %}" href="{{  '/book' | relative_url }}">Book</a></li>
+          <li><a class="{% if 'openfamilias.md' == page.path %}active{% endif %}" href="{{ '/openfamilias' | relative_url }}">R Familias</a></li>
+          <li><a class="{% if 'courses.md' == page.path %}active{% endif %}" href="{{ '/courses' | relative_url }}">Courses</a></li>
         </ul>
       </nav>
     </header>
@@ -28,7 +28,7 @@
 
       <section>
         <figure>
-          <img src="/img/cover.png">
+          <img src="{{ '/img/cover.png' | relative_url }}">
           <figcaption>Book available from <a href="http://store.elsevier.com/product.jsp?isbn=9780128024027">Elsevier</a>.
         </figure>
       </section>
