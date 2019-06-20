@@ -1,0 +1,5 @@
+pages:
+  - title: Home
+    path: ''
+  - title: Book
+    path: 'book'
