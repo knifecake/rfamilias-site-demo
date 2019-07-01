@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Familias: Book, R version and Courses"
+title: "Familias"
+subtitle: "Book, R version and Courses"
 email: thore.egeland@gmail.com
 description: >
   Familias is a program for probability calculations when inferring paternity
